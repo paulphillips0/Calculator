@@ -1,8 +1,5 @@
-using System;
 using Autofac.Extras.Moq;
 using ConsoleApp1;
-using Moq;
-using Moq.Language.Flow;
 using Xunit;
 
 namespace TestProject1
